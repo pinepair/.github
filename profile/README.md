@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Pine Pair is independent software designed for humans, by humans. 
+
+Our current projects include:
+
+[Lochy](https://www.lochy.org) (early access)
+
+[Lochy Lake](https://lake.lochy.org) (coming soon)
+
+[Trailblazers Trivia](https://trailblazerstrivia.com)
+
 <!--
 
 **Here are some ideas to get you started:**
